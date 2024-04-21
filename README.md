@@ -1,12 +1,12 @@
 <div align='center'>
   <h3>Hi there 👋</h3>
 
-  My name is Agustín, I am a software developer from Uruguay, living in Barcelona, ​​Spain.<br>
-Actually I am studying at 42Barcelona and on my own in my free time.
+My name is Agustín, and I am a software developer originally from Uruguay, currently residing in Barcelona, Spain.<br>
+I am pursuing studies at 42Barcelona and also dedicating time to self-study in my free time.
 
-I enjoy to learn technologies related to web development, and most of my projects are related to that.<br>
-A lot of my repositories are informal side projects with a lot of bad practices or study notes
-from the code school, but all of that is to improve my coding skills.
+I enjoy learning about technologies related to web development, and most of my projects are in this field.<br>
+Many of my repositories contain informal side projects and study notes from coding school, which include a lot of bad practices.<br>
+However, all of these efforts are aimed at improving my coding skills.
 
 #### Top skills
 [![My Skills](https://skillicons.dev/icons?perline=3&i=c,js,ts,nextjs,nodejs,express,mongodb,mysql,redis)](https://skillicons.dev)
